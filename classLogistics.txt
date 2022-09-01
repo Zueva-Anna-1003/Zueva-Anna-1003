@@ -1,0 +1,9 @@
+1.) My name is Anna Maria Zueva.
+
+2.) Yes, I have a partner for programming assignments.
+
+3.) I have a partner.
+
+4.) I will not use my personal computer for programming assignments.
+
+4ai1) I, Anna Zueva, am going to set up a dev environment on my personal machine. I acknowlege that I have to set it up by 9/2 if I want to use it on programming assignments. TAs and TFs will not help me set up a brand new environment using virtual box or windows subsystem for Linux after thisdate. I will use the instructions linked in lab 1 to ensure that my environment has everything I need.
